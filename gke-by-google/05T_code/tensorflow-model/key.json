@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enel-dac-operations-devops",
+  "private_key_id": "fafa4fcb560a4cee617f3fec434ec7ca4b31cb04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoVSGBgv7gda38\nc0IwVTmljcWZGNfMdROfbSMt4vtRmLecgXupcR3q6OpjmNJC89jaZcPerTGzcVLc\nRCRs0PYt7ppnRvExX80/9xBoc4Ug/If9QvpwzfVwbB/ffXVTYFSxcI/H/a+jJV/J\n7l/SAkoE/aoAif/0mHY7LOSDGgogumC6R7S5r4n0k7J7Hq+3wXiDuBbXil4zlh8x\nwe0TLNe0lKuMSKpKVrAiqZD3OPePbHfYtwMXnvlCJABoxhAQirBIDYZm7RgTWoPY\n4uIPytquZymSti6qi4qGLWTRNUNTgI1hrPLrGyKn/Tx37hsoHaaJ56DRqscnJr/h\ni4dflkldAgMBAAECggEAC4ujO63Pa3fG0izZmlUOGiPKLMD+dCCHkwS6R/hsgmE2\nHr7my21dvvHwuZoOudbdxcT7FTfN09/u7fqigPAoImheIL1F57wJaNy6PF/H/sYz\nUZSZdsk5j1drLDn/pRNTW8Q7qFznAgqbMk9uNQpBJ2x6j4TnkFAws8hVeAR+M1ZY\nesuYG33uGVAn3mXEScH0GGYyUQxHBBmMUb/XwqE3lx4iyC10Bigz9WRB3Wa0tiWP\nS/S/cQjpJjVoIzvpqr62ZbWc7iEJzXf4+UfF8ZklyxfxiCzGVcNooG5aqcXmHx/u\n0fkyNd0UnzzEtIQuTDRjrA13yUf1Qjh5Bf4nfI4LZQKBgQDsUVgPTeRTUsfVh0uo\nNXYDUhDCAUdRNOtEY+wRuiu/w/rCGhZxsxRAHisVleLIpYoAV9wcnqEjVZb2AhHo\nLz18MGEi9HI/YzhOLjKVPLXtRGKBMxXk1ykTYIWXouBMJIjArtfpRSc6LQW31Rc1\nH1nk/JlDA1pcXBRvhNtLzbJF2wKBgQC2Wjz+Jcwl382BHTE/AekqrjEAP8KtSy3S\nIV/+Zz5cjFL0iK3LuHMgBdk/xU/pf0/KKyO4LtHbq12xk4WwPjnU5sA6dNETbwzT\nzvtLGEX/dEjZzSCvvU1BysLKnGNv+ki7VV9rxgARd8FcIHuAPR8dRtkrBNT4mA7E\n3BSOHDJ/JwKBgQCuRJpExvMOgyg8jcY8KBh8AGO9PYYjG3w3ddxbgkfK5bIgu247\nsIzJb7Xj+CFCR9kJwcDfFhfMX8ywY/xilZuo3mBzj4JEvl2CQc0pgpjCfMCLeGm3\n1PdEg9Rga0suu25hcU5lhoqT+ymRVEIF+bWoCKLY6TsUiw7C4l15fBnwKwKBgBLU\n3tegL6T5p89dpGhNWjb+JjFQZFphGSpKKA+tudL06tw2ATy4n6r+76CWT9pdO3A1\nZErxCtsUp2hfQ78frfk+mztuNOk83qZBCdKHfzMSXzOe63E6q2/P8K3b2KkHv9sY\nxfHrULZ9F4rcD+T+augrGOJIbXX+vge2cqj6YHyhAoGBANPJ2beIzEf5FMrOGDmu\nAisuaL4hR25Ppfy4kp5z+Bkh1dsBx5uwOHdb+aj6MxMWhCCwLXWCRqFBVucGMxh8\nsaP4X2vgYY2xTMYGU558zHU9PwkEs8f16VIRyM5u+FckScgNHsQd1uqkqVircFbd\nqPZggejRxRMVo43u97Dyto+p\n-----END PRIVATE KEY-----\n",
+  "client_email": "kf-cl-tr01-sa@enel-dac-operations-devops.iam.gserviceaccount.com",
+  "client_id": "112796163071992773334",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kf-cl-tr01-sa%40enel-dac-operations-devops.iam.gserviceaccount.com"
+}
