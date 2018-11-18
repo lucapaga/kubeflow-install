@@ -1,0 +1,35 @@
+apiVersion: 0.3.0
+environments:
+  default:
+    destination:
+      namespace: kubeflow02
+      server: https://35.187.107.55
+    k8sVersion: v1.9.7
+    path: default
+kind: ksonnet.io/app
+libraries:
+  kubeflow/argo:
+    name: argo
+    registry: kubeflow
+    version: 8a771d15b6d23413e04012c5f35683403d2ace74
+  kubeflow/core:
+    name: core
+    registry: kubeflow
+    version: 8a771d15b6d23413e04012c5f35683403d2ace74
+  kubeflow/seldon:
+    name: seldon
+    registry: kubeflow
+    version: 8a771d15b6d23413e04012c5f35683403d2ace74
+  kubeflow/tf-serving:
+    name: tf-serving
+    registry: kubeflow
+    version: 8a771d15b6d23413e04012c5f35683403d2ace74
+name: kfapp
+registries:
+  incubator:
+    protocol: github
+    uri: github.com/ksonnet/parts/tree/master/incubator
+  kubeflow:
+    protocol: github
+    uri: github.com/katacoda/kubeflow-ksonnet/tree/master/kubeflow
+version: 0.0.1
